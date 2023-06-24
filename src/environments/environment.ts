@@ -2,8 +2,11 @@
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
+import * as http from "http";
+
 export const environment = {
-  production: false
+  production: false,
+  backendHost : "http://localhost:8085"
 };
 
 /*

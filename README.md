@@ -1,27 +1,25 @@
-# DigitalBankingWeb
+<h2>Partie Frontend</h2>
+<h4>Créer des composants (accounts, customer-accounts,customers)</h3>
+<img src="images/i1.png">
+<h4>Configurer le systeme de routage</h4>
+<img src="images/i2.png">
+<h4>La communication avec le backend</h4>
+<li>importer le module HttpClientModule</li>
+<img src="images/i3.png">
+<h4>l'interface web (digital-banking-web)</h4>
+<img src="images/i4.png">
+<h4>La listes des clients</h4>
+<p>cette partie liste les clients existants, accompagnée d'un champ de recherche pour filtrer par mots-clés.Chaque client est présenté, avec des détails tels que  ID, nom et adresse e-mail</p>
+<img src="images/i5.png">
+<h4>Recherche des clients par mot-clé</h4>
+<img src="images/i6.png">
+<h4>Ajouter un client</h4>
+<img src="images/i7.png">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+<img src="images/i8.png">
+<h4>Afficher les informations d'un compte</h4>
+<img src="images/i9.png">
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<img src="images/i10.png">
+<p>cette partie permet à l'utilisateur d'effectuer des opérations (le débit, le crédit et le transfert)</p>
+<img src="images/i11.png">
